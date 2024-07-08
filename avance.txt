@@ -1,0 +1,23 @@
+
+Buscar en extensiones del Visual Studio code MARLETPLACE
+PHP IntelliSense
+bostrap 
+bs5-$
+
+bs5-navbar-minimal-ul
+
+bs5-jumbotrom-fluid
+
+bs5-car-head-foot
+
+bs5-table-default
+
+bs5-button-a
+
+bs5-form-input
+
+bs5-form-select-custom
+
+di click en el indice para crear relacion con crear relacion en diseñador
+debe xistir almenos un data para dar a un empleado
+crear relacion cascade /cascade/
